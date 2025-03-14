@@ -36,8 +36,8 @@ Install the required libraries using `pip`. You can create a `requirements.txt` 
 pip install -r requirements.txt
 ````
 ### The requirements.txt should contain:
-pandas
-matplotlib
-yfinance
+- ** pandas **
+- ** matplotlib **
+- ** yfinance **
 ### 3. Set up the Project
 Once the repository is cloned, open the Jupyter Notebook or any Python environment to begin running the code.
