@@ -28,16 +28,16 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/your-username/stock-data-analysis.git
 ```
-## **2. Install Required Libraries**
+### **2. Install Required Libraries**
 
 Install the required libraries using `pip`. You can create a `requirements.txt` file to manage dependencies. Run the following command to install the required packages:
 
 ```bash
 pip install -r requirements.txt
 ````
-# The requirements.txt should contain:
+### The requirements.txt should contain:
 pandas
 matplotlib
 yfinance
-# 3. Set up the Project
+### 3. Set up the Project
 Once the repository is cloned, open the Jupyter Notebook or any Python environment to begin running the code.
